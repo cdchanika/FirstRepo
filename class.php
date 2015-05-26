@@ -35,5 +35,5 @@ $c1->setName("Kasun");
 $c1->getName();
 $c1->getNIC();
 
-$query = mysqli_query($connect,"INSERT INTO candidate VALUES('1234','Kasun')");
+$query = mysqli_query($connect,"INSERT INTO candidate VALUES('1234','Kasun pawithra')");
 ?>
